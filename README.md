@@ -1,2 +1,2 @@
 # curso-ebac
-Curso
+Curso.
